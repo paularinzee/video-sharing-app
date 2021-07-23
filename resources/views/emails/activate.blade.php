@@ -1,0 +1,1 @@
+Activate account <a href="{{url('/activate/'.$user->activation_code)}}">{{url('/activate/'.$user->activation_code)}}</a>
